@@ -1,0 +1,6 @@
+{
+  "name": "Painel de Objeções e Contornos de Vendas",
+  "description": "Um painel interativo de FAQ de vendas que analisa objeções de clientes em tempo real e fornece estratégias de contorno personalizadas, baseadas em psicologia de vendas e técnicas de fechamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
